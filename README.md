@@ -1,8 +1,17 @@
 # python-for-devops-CICD
 
 ## Create project scaffold
+*
+Create development environment 
 
-Create development environment that is cloud-based
+* Makefile
+* requirements.txt
+* test_library.py
+* python_library
+* Dockerfile
+* command-line-tool
+* Microservice
+
 
 ### Colab Notebook
 ### Github Codespaces
