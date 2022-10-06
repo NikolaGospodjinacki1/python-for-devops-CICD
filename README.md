@@ -2,12 +2,12 @@
 [![Python application test with Github Actions](https://github.com/NikolaGospodjinacki1/python-for-devops-CICD/actions/workflows/main.yml/badge.svg)](https://github.com/NikolaGospodjinacki1/python-for-devops-CICD/actions/workflows/main.yml)
 ## Create project scaffold
 *
-Create development environment 
 
-* Makefile
-* requirements.txt
-* test_library.py
-* python_library
+Build out python project scaffold:
+* [Makefile](https://github.com/NikolaGospodjinacki1/python-for-devops-CICD/blob/main/Makefile)
+* [requirements.txt](https://github.com/NikolaGospodjinacki1/python-for-devops-CICD/blob/main/requirements.txt)
+* [test_library.py](https://github.com/NikolaGospodjinacki1/python-for-devops-CICD/blob/main/test_devopslib.py)
+* [python_library](https://github.com/NikolaGospodjinacki1/python-for-devops-CICD/tree/main/devopslib)
 * Dockerfile
 * command-line-tool
 * Microservice
